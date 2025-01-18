@@ -31,4 +31,4 @@ Este repositório contém as configurações de deploy e a infraestrutura do pro
 
 - [Repositório da scrap-btc no GitHub](https://github.com/Renatmf5/scrap-btc)
 
-- [Repositório da scrap-btc no GitHub](https://github.com/Renatmf5/glue-b3-script)
+- [Repositório da Glue-Script no GitHub](https://github.com/Renatmf5/glue-b3-script)
